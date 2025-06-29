@@ -1,4 +1,4 @@
-# 🚀 AD: Create Your S3 Bucket
+# AD: Create Your S3 Bucket
 
 👋 Ready to launch your personal website? Start by **creating your bucket!**
 
