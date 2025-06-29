@@ -1,10 +1,10 @@
-# 🔓 AD: Set Your Bucket Policy to Go Public
+# AD: Set Your Bucket Policy to Go Public
 
 🌍 Want the world to see your website? Time to open the gates!
 
-✅ Go to the **Permissions** tab.  
-✅ Find **Bucket policy**, click **Edit**.  
-✅ Paste this magic JSON (replace `your-bucket-name` with your real bucket name!):
+✔️ Go to the **Permissions** tab.  
+✔️ Find **Bucket policy**, click **Edit**.  
+✔️ Paste this magic JSON (replace `your-bucket-name` with your real bucket name!):
 
 ```json
 {
