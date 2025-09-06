@@ -3,10 +3,6 @@
 ## 🎯 Objective
 Learn to host your personal resume website on Amazon S3. You’ll create a bucket, upload files, set permissions, and go live on the web!
 
-![AWS](https://img.shields.io/badge/AWS-S3-orange)
-![Static Site](https://img.shields.io/badge/Type-Static%20Website-blue)
-![MIT License](https://img.shields.io/badge/license-MIT-green)
-
 ---
 
 ## ✅ Steps
